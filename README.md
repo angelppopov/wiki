@@ -1,1 +1,3 @@
-# wiki
+# Wiki
+
+Personal notes.
