@@ -2,7 +2,7 @@
 
 - [Home](home.md)
 
-- [Linux](Linux/README.md)
-  - [Kernel Space](data-structures-and-algorithms/algorithms/)
-    - [Character Device Drivers](data-structures-and-algorithms/algorithms/algorithms-sorting.md)
-  - [User Space](Linux/UserSpace/)
+- [Linux](linux/README.md)
+  - [Kernel Space](linux/kernel-space/README.md)
+    - [Timers in Linux Device Driver](linux/kernel-space/timers-in-linux-device-driver/README.md)
+    - [Character Device Drivers](linux/kernel-space/character-device-drivers/README.md)
